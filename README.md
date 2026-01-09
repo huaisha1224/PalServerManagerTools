@@ -1,0 +1,2 @@
+# PalServerManagerTools
+基于REST API可视化界面管理幻兽帕鲁专用服务器，服务器MOD安装等功能
