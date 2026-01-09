@@ -17,16 +17,13 @@
 - [x] 存档自动备份与管理
 - [x] 服务器MOD安装和卸载
 
-- [ ] 
-
 帕鲁服务器管理工具交流：<a target="_blank" href="https://qm.qq.com/q/Czyyy07ojY"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="帕鲁服务器管理工具" title="帕鲁服务器管理工具"></a>
-![加QQ群](./docs/img/add_group.jpg)
 
 
 ## 开启 REST API和配置管理员密码
 
 本项目必需开启服务器的 REST API 功能才能正常使用
 
-如果你的服务器还没有配置好，请先关闭服务端，然后在 [Pal-Conf](https://pal-conf.bluefissure.com/) 修改 `PalWorldSettings.ini` 启用服务端。
-先设置 **管理员密码**
-再设置 **REST API**
+如果你的服务器还没有配置好，请先关闭服务端，然后在 [Pal-Conf](https://pal-conf.bluefissure.com/) 修改 `PalWorldSettings.ini` 然后启用服务端。
+- 先设置 **管理员密码**
+- 再设置 **REST API**
