@@ -1,0 +1,1 @@
+pyinstaller -F -w -i "./resource/favicon.ico" --add-data "./ui;./ui" --add-data "./resource;./resource" --version-file=version_info.txt main.py
