@@ -24,6 +24,6 @@
 
 本项目必需开启服务器的 REST API 功能才能正常使用
 
-如果你的服务器还没有配置好，请先关闭服务端，然后在 [Pal-Conf](https://pal-conf.bluefissure.com/) 修改 `PalWorldSettings.ini` 启用服务端。
+如果你的服务器还没有配置好，请先关闭服务端，然后在 [Pal-Conf](https://pal-conf.bluefissure.com/) 修改 `PalWorldSettings.ini` 然后启用服务端。
 - 先设置 **管理员密码**
 - 再设置 **REST API**
